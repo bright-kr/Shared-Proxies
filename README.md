@@ -11,6 +11,33 @@ Enjoy seamless scraping with Bright Data's [Shared Proxies](https://brightdata.c
 - **HTTP(S) & SOCKS5 support**
 - **Geo-location targeting (Free)**
 
+## Types of Proxies
+Bright Data is the industry leader for proxies, serving over 20,000 customers. 
+
+**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+  
+- **72M residential IPs**
+- **HTTP(S)/ & SOCKS5 supported**
+- **Proxy IPs from all 195 countries**
+
+**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+  
+- **770,000 datacenter IPs**
+- **0.24s resonse time**
+- **Pay-Per-IP or bandwidth usage**
+
+**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+  
+- **770,000 static residential IPs**
+- **Pay-per-IP or by bandwidth usage**
+- **Fastest response time in the industry**
+
+**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+  
+- **7M mobile proxy IPs**
+- **3G/4G/5G mobile IPs**
+- **24/7 global support**
+
 ## Key Features
 - **Global Coverage**: Shared proxies available in [195 countries](https://brightdata.com/locations).
 - **Poular proxy IP locations**
@@ -48,16 +75,16 @@ Explore how businesses leverage Shared Proxies:
 - [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
 - [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
 - [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
+- [**SEO**](https://brightdata.com/use-cases/serp): Track SERP results.
 - [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
 
 ## FAQ
 
-### What is a dedicated Proxy?
-Shared Proxies are exclusive IP addresses assigned only to a single user. They are not shared with anyone else, providing a high level of privacy and security.
+### What is a shared proxy?
+Shared Proxies are IPs that are shared across multiple users. They are a cost-efficient option when you don't require IP exclusivity.
 
-### What are the benefits of Shared Proxies?
-The benefits of using Shared Proxies include a high level of privacy and security, faster speeds due to no sharing of bandwidth, and a lower risk of being blocked or blacklisted as the IP is not associated with any other user’s activities.
+### Can you use shared proxies for multiple sessions?
+Yes, you can use the same shared proxy for multiple sessions by using the session persistence feature.
 
 ### What types of plans are available? 
 Bright Data offers flexible pricing models, including:
@@ -70,4 +97,3 @@ Bright Data’s proxies are ethically sourced, and we comply with all relevant d
 
 ### Is there dedicated support available?
 Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
-# Shared-Proxies
