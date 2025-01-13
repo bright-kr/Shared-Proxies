@@ -1,6 +1,6 @@
 # Bright Data's Shared Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/dedicated-proxies) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/dedicated-proxies) 
 
 ## Overview
 Enjoy seamless scraping with Bright Data's [Shared Proxies](https://brightdata.com/solutions/shared-proxies), offering percise targeting, exceptional stasbility, and lightning-fast response times.
