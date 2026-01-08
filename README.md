@@ -1,6 +1,6 @@
 # Bright Data's Shared Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/solutions/shared-proxies) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/solutions/shared-proxies) 
 
 ## 개요
 정밀한 타겟팅, 탁월한 안정성, 번개처럼 빠른 응답 시간을 제공하는 Bright Data의 [Shared Proxies](https://brightdata.co.kr/solutions/shared-proxies)로 끊김 없는 スクレイピング을 경험하실 수 있습니다.
